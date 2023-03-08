@@ -1,6 +1,6 @@
 Hi, I'm Bharathi GR! 👋
 
-🔭 I’m currently working on Web Development.   
+🔭 I’m  currently practicing REST full Web Development.   
 
 🌱  Learning Microservice.
 
