@@ -2,9 +2,9 @@ Hi, I'm Bharathi GR! 👋
 
 🔭 I’m currently working on Web Development.   
 
-🌱 I’m currently learning JavaScript Frameworks.
+🌱  Learning Microservice.
 
-✨ Favorite Tech: Java,SQL/PLSQL,Object Oriented Programming.    
+✨ Favorite Tech: Java,Springboot,Microservice,SQL/PLSQL,Object Oriented Programming.    
 
 💼 LinkedIn: https://www.linkedin.com/in/bharathigr/ 
 
